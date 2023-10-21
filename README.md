@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansi </h1>
 
-- 🌱 I’m interested in Full Stack Web Development(MERN) and coding.
+- 🌱 I’m interested in Full Stack Web Development and coding.
 
 - 👨‍💻 I’m currently learning DSA, Backend Development, and Android Development.
 
